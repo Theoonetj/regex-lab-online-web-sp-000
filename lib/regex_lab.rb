@@ -24,4 +24,3 @@ def valid_phone_number?(phone)
 
 end
 
-starts_with_a_vowel?("elephant")
